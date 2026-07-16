@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
         "Kumar"
-    ]
+    ],
+    "editor.fontSize": 20,
+    "workbench.colorTheme": "Abyss"
 }
